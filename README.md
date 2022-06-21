@@ -1,5 +1,11 @@
 # Tolkien: Campaign Management Module
 
+<p align="center">
+  
+[About](https://github.com/qbem-dojos/tolkien-campaign-management-module#about-project)- [Features](https://github.com/qbem-dojos/tolkien-campaign-management-module#features) - [Layouts](https://github.com/qbem-dojos/tolkien-campaign-management-module#layouts) - [APIs](https://github.com/qbem-dojos/tolkien-campaign-management-module#apis) - [Installing](https://github.com/qbem-dojos/tolkien-campaign-management-module#installing) - [Authors](https://github.com/qbem-dojos/tolkien-campaign-management-module#authors)
+
+</p>
+
 ## Technologies stack
 
 [![mongodb](https://img.shields.io/badge/mongodb-555?style=for-the-badge&logo=mongodb)]([http://https://go.dev/](https://github.com/mongodb/mongo))
@@ -15,13 +21,16 @@
 [![docker-compose](https://img.shields.io/badge/docker_compose-555?style=for-the-badge&logo=docker)](https://git-scm.com/)
 [![kubernetes](https://img.shields.io/badge/kubernetes-555?style=for-the-badge&logo=kubernetes)](https:///)
 
-## Campaign Management Module 
+## About Project 
 Developed for Qbem's Programming Dojo. It is a micro app responsible for creating and managing game campaigns. It has an API for external communication and a microfront.
 
 ## Features
 Comming soon
 
 ## Layouts
+Comming soon
+
+## APIs
 Comming soon
 
 ## Installing
