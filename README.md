@@ -19,9 +19,7 @@
 Developed for Qbem's Programming Dojo. It is a micro app responsible for creating and managing game campaigns. It has an API for external communication and a microfront.
 
 ## Features
-- [ ] Campaign creation
-- [ ] Campaign closed
-- [ ] Campaign actives lists
+Comming soon
 
 ## Layouts
 Comming soon
