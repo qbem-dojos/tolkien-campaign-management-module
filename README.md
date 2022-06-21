@@ -1,12 +1,10 @@
 # Tolkien: Campaign Management Module
 
-<p align="center">
-  
-[About](https://github.com/qbem-dojos/tolkien-campaign-management-module#technologies-stack) • [About](https://github.com/qbem-dojos/tolkien-campaign-management-module#about-project) • [Features](https://github.com/qbem-dojos/tolkien-campaign-management-module#features) • [Layouts](https://github.com/qbem-dojos/tolkien-campaign-management-module#layouts)  • [APIs](https://github.com/qbem-dojos/tolkien-campaign-management-module#apis) • [Installing](https://github.com/qbem-dojos/tolkien-campaign-management-module#installing)  •  [Authors](https://github.com/qbem-dojos/tolkien-campaign-management-module#authors)
 
-</p>
+[Technologies](https://github.com/qbem-dojos/tolkien-campaign-management-module#technologies-stack) • [About](https://github.com/qbem-dojos/tolkien-campaign-management-module#about-project) • [Features](https://github.com/qbem-dojos/tolkien-campaign-management-module#features) • [Layouts](https://github.com/qbem-dojos/tolkien-campaign-management-module#layouts)  • [APIs](https://github.com/qbem-dojos/tolkien-campaign-management-module#apis) • [Installing](https://github.com/qbem-dojos/tolkien-campaign-management-module#installing)  •  [Authors](https://github.com/qbem-dojos/tolkien-campaign-management-module#authors)
 
-## Technologies stack
+
+## Technologies
 
 [![mongodb](https://img.shields.io/badge/mongodb-555?style=for-the-badge&logo=mongodb)]([http://https://go.dev/](https://github.com/mongodb/mongo))
 [![golang](https://img.shields.io/badge/golang-555?style=for-the-badge&logo=go)](http://https://go.dev)
