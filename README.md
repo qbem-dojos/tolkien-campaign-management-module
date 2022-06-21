@@ -1,2 +1,1 @@
-# tolkien-gestao-campanhas
-Módulo de gestão de campanha
+# Tolkien: Campaign Management Module
