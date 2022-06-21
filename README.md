@@ -2,7 +2,7 @@
 
 <p align="center">
   
-[About](https://github.com/qbem-dojos/tolkien-campaign-management-module#about-project) • [Features](https://github.com/qbem-dojos/tolkien-campaign-management-module#features) • [Layouts](https://github.com/qbem-dojos/tolkien-campaign-management-module#layouts)  • [APIs](https://github.com/qbem-dojos/tolkien-campaign-management-module#apis) • [Installing](https://github.com/qbem-dojos/tolkien-campaign-management-module#installing)  •  [Authors](https://github.com/qbem-dojos/tolkien-campaign-management-module#authors)
+[About](https://github.com/qbem-dojos/tolkien-campaign-management-module#technologies-stack) • [About](https://github.com/qbem-dojos/tolkien-campaign-management-module#about-project) • [Features](https://github.com/qbem-dojos/tolkien-campaign-management-module#features) • [Layouts](https://github.com/qbem-dojos/tolkien-campaign-management-module#layouts)  • [APIs](https://github.com/qbem-dojos/tolkien-campaign-management-module#apis) • [Installing](https://github.com/qbem-dojos/tolkien-campaign-management-module#installing)  •  [Authors](https://github.com/qbem-dojos/tolkien-campaign-management-module#authors)
 
 </p>
 
