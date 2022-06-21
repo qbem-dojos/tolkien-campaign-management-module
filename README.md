@@ -8,7 +8,7 @@
 
 [![mongodb](https://img.shields.io/badge/mongodb-555?style=for-the-badge&logo=mongodb)]([http://https://go.dev/](https://github.com/mongodb/mongo))
 [![golang](https://img.shields.io/badge/golang-555?style=for-the-badge&logo=go)](http://https://go.dev)
-[![ecmascript](https://img.shields.io/badge/ecmascript-555?style=for-the-badge&logo=javascript)](http:///)
+[![Javascript](https://img.shields.io/badge/javascript-555?style=for-the-badge&logo=javascript)](http:///)
 [![html5](https://img.shields.io/badge/html_5-555?style=for-the-badge&logo=html5)](http:///)
 [![stylus](https://img.shields.io/badge/stylus-555?style=for-the-badge&logo=stylus)](http:///)
 [![git](https://img.shields.io/badge/git-555?style=for-the-badge&logo=git)](https://git-scm.com/)
