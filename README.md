@@ -24,6 +24,13 @@ Developed for Qbem's Programming Dojo. It is a micro app responsible for creatin
 
 ## Features
 Comming soon
+- [ ] Campaign CRUD
+- [ ] Start/close campaign
+- [ ] Landing page
+- [ ] Campaign analytics
+- [ ] Campaign NPS
+- [ ] Player Management
+
 
 ## Layouts
 Comming soon
